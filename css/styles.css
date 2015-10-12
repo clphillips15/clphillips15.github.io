@@ -10,3 +10,9 @@ img {
     body {
     background: url(../img/confectionary.png);
     }
+h1 {
+color: burlywood;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+}
