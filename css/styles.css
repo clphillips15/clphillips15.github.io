@@ -1,18 +1,43 @@
 
-h1 {
-color: rgba(0,0,0,.5);}
+/* Global */
+ body {
+    background: url(../img/confectionary.png);
+    }
 
 img {
     opacity: 1;
     width: 50%;
     }
-    
-    body {
-    background: url(../img/confectionary.png);
-    }
+/* Layout */
+
+/* Typography */
 h1 {
-color: burlywood;
+    color: rgba(0,0,0,.5);}
+
+h1 {
+    color: burlywood;
     text-transform: uppercase;
     letter-spacing: 4px;
 
 }
+
+/* Navigation */
+
+a {
+   
+    text-decoration: none;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    
+}
+
+li{
+    display: inline
+    
+}
+
+
+
+    
+   
