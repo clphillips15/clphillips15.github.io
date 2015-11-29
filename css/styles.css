@@ -11,15 +11,17 @@ img {
 /* Layout */
 
 /* Typography */
-h1 {
-    color: rgba(0,0,0,.5);}
 
 h1 {
     color: burlywood;
     text-transform: uppercase;
     letter-spacing: 4px;
+    font-family: 'Raleway', sans-serif;
 
 }
+
+h2{
+ font-family: 'Raleway', sans-serif;}
 
 /* Navigation */
 
@@ -39,6 +41,10 @@ li{
 
 nav{
  
+ font-family: 'Raleway', sans-serif;
+}
+
+p{
  font-family: 'Raleway', sans-serif;
 }
 
