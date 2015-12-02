@@ -1,7 +1,7 @@
 
 /* Global */
  body {
-    background: url(../img/confectionary.png);
+    background-color: rgb(223, 213, 197);;
     }
 
 img {
@@ -13,10 +13,11 @@ img {
 /* Typography */
 
 h1 {
-    color: burlywood;
-    text-transform: uppercase;
+    color: rgb(218, 169, 83);;
     letter-spacing: 4px;
     font-family: 'Raleway', sans-serif;
+    font-size: 7em;
+   
 
 }
 
