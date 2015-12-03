@@ -10,6 +10,19 @@ img {
     }
 /* Layout */
 
+
+
+/*Gallery*/
+
+.gallery {
+    hight: 600;
+}
+
+.gallery item {
+    background: none;
+}
+    
+
 /* Typography */
 h1 {
     color: rgba(0,0,0,.5);}
