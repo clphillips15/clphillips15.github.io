@@ -1,3 +1,4 @@
+/*
 .gallery {
   position: relative;
   height: 300px; 
@@ -39,8 +40,11 @@
       color: white;
 }
 
-
+*/
 /* Animation & Keyframes */ 
+
+/*
+
 @keyframes galleryAnimation {
   0% {
     opacity: 0; }
@@ -82,3 +86,13 @@
   opacity: 1; 
 }
 
+*/
+
+
+
+
+
+.gallery .item:hover {
+
+
+}

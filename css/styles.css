@@ -28,9 +28,12 @@ h1 {
     color: rgba(0,0,0,.5);}
 
 h1 {
-    color: burlywood;
-    text-transform: uppercase;
+    color: black;
     letter-spacing: 4px;
+    font-family: 'Cookie', cursive;
+    font-size:10em; 
+    text-align: center;
+    
 
 }
 
@@ -39,20 +42,24 @@ h1 {
 a {
    
     text-decoration: none;
+    color:white;
     display: inline-block;
-    height: 100px;
-    width: 100px;
+    height: 35px;
+    width:100px;
+    
     
 }
 
 li{
-    display: inline
+    display: inline;
+    
     
 }
 
 nav{
- 
  font-family: 'Raleway', sans-serif;
+    background: #000;
+   
 }
 
 
