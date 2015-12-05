@@ -8,19 +8,19 @@ img {
     opacity: 1;
     width: 50%;
     }
+.me {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    align-content: center;
+    
+}
+
+
 /* Layout */
 
 
 
-/*Gallery*/
-
-.gallery {
-    hight: 600;
-}
-
-.gallery item {
-    background: none;
-}
     
 
 /* Typography */
@@ -32,10 +32,13 @@ h1 {
     letter-spacing: 4px;
     font-family: 'Cookie', cursive;
     font-size:10em; 
-    text-align: center;
+    text-align: center}
     
+    h2 {
+    font-family: 'Raleway', sans-serif;
+    }
 
-}
+
 
 /* Navigation */
 
@@ -45,7 +48,7 @@ a {
     color:white;
     display: inline-block;
     height: 35px;
-    width:100px;
+    width:125px;
     
     
 }
@@ -58,7 +61,8 @@ li{
 
 nav{
  font-family: 'Raleway', sans-serif;
-    background: #000;
+    background: rgb(167,165,163);
+    font-size: 1.25em
    
 }
 
