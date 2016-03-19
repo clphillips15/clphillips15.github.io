@@ -1,0 +1,241 @@
+
+/* Global */
+th {
+  padding: 30px;
+  font-size: 2em;
+  font-family: 'Cookie', sans-serif;
+}
+
+td {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1em;
+  line-height: 2.5em;
+}
+
+table {
+  width: 75%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.icon {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  float: right;
+}
+
+.designer {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5em;
+  letter-spacing: .5em;
+}
+
+
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a .icon {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+
+
+
+body {
+    background: url(https://raw.githubusercontent.com/clphillips15/clphillips15.github.io/master/img/confectionary.png);
+  
+  z-index:1;
+    }
+.canvas {
+    max-width: 85%;
+    margin: 2% auto;
+    position: relative;
+    background: #fff;
+}
+
+div{
+  z-index: 1;
+}
+
+}
+
+
+
+
+img {
+    opacity: 1;
+    width: 50%;
+    }
+.me {
+  max-width: 25%;
+  text-align: center;
+  margin-left: 5%;
+  display: inline-block;
+
+}
+
+
+/* Layout */
+
+
+
+    
+
+/* Typography */
+h1 {
+    color: rgba(0,0,0,.5);}
+
+h1 {
+    color: black;
+    letter-spacing: 4px;
+    font-family: 'Cookie', cursive;
+    font-size:8em; 
+    text-align: center;
+    
+}
+    
+    h2 {
+    font-family: 'Cookie', cursive;
+    font-size: 3.5em;
+    text-align:center;
+
+    }
+p {
+font-family: 'Raleway', sans-serif;
+max-width: 55%;
+  display: inline-block;
+  margin-left: 7%;
+  margin-bottom: 10%;
+  line-height: 2em;
+}
+
+.resume {
+  margin-top: -2%;
+}
+
+.contact {
+  margin-top: -20%;
+}
+
+dl {
+font-family: 'Raleway', sans-serif;
+    line-height:2em;
+}
+
+
+/* Navigation */
+#menu {
+    position: fixed;
+    z-index: 70;
+    max-width: 100%;
+    padding: 0;
+    margin: 0 auto;
+  text-align: center;
+  
+   font-family: 'Raleway', sans-serif;
+    font-size: 1.25em;
+}
+
+#menu li {
+    display: inline-block;
+  background: grey;
+   
+} 
+
+#menu li:hover {
+    /*background: rgba(255,255,255, 0.8);*/
+  background: 	#D3D3D3;
+}
+
+a {
+   
+    text-decoration: none;
+    color:white;
+    display: inline-block;
+    height: 35px;
+    width:125px;
+    
+    
+}
+
+li{
+    display: inline-block;
+    
+    
+}
+
+
+/*Resume*/
+
+.about {
+height:200px;
+    width:200px;
+
+}
+
+
+
+
+  
+  .background {
+    width: 100px;
+    height:250px;
+     background: white;
+    text-align: center;
+  }
+    
+   
+/*Media Queiries*/
+
+/*Phone*/
+@media screen and (max-width: 480px) {
+  
+  h1 {
+    font-size: 4em;
+    
+  }
+    #menu {
+  font-size: .7em;
+   
+  
+}
+    
+
+    .me {
+    max-width:60%;
+    margin-left:50px;
+}
+    
+
+} 
+
+/*Tablet*/
+@media screen and (min-width:481px) and (max-width:768px) {
+  
+ h1 {
+    font-size: 5em;
+    
+  }
+    #menu {
+  font-size: .9em;
+  max-width: 50%;
+  
+}
+
+  
+  
+
+
+  
+ 
